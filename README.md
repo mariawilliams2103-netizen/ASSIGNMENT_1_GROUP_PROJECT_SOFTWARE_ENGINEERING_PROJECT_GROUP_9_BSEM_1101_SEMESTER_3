@@ -202,3 +202,6 @@ Contributors:
 ## Notes
 
 This repository is a console-based prototype intended to demonstrate how a digital queue and appointment system can support healthcare operations. It is designed for educational and demonstration purposes and can be expanded into a more robust real-world clinic management system.
+
+
+
